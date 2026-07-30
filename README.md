@@ -13,6 +13,8 @@ My name is Ramone Mairs an motivated IT Help Desk professional with a solid foun
 
 <h2>🤳Connect with me:</h2>
 
+
+[linkedin]: [](https://ky.linkedin.com/in/ramone-mairs-069b26372)
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
