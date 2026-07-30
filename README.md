@@ -8,7 +8,8 @@ My name is Ramone Mairs an motivated IT Help Desk professional with a solid foun
     
 - <b>Microsoft Azure</b>
 
-  - Azure-compute-and-networking
+  - Azure-compute-and-networking[](https://github.com/ramonemairs/Azure-compute-and-networking) 
+    
 <h2>🤳Connect with me:</h2>
 
 
