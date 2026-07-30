@@ -20,4 +20,4 @@ My name is Ramone Mairs an motivated IT Help Desk professional with a solid foun
 
 [twitter]: https://twitter.com/Josh
 [instagram]: https://www.instagram.com/Josh
-[linkedin]: https://linkedin.com/in/Josh
+[linkedin]: [](https://ky.linkedin.com/in/ramone-mairs)
