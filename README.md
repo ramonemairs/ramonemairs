@@ -14,7 +14,6 @@ My name is Ramone Mairs an motivated IT Help Desk professional with a solid foun
 
 
 [linkedin]: [](https://ky.linkedin.com/in/ramone-mairs-069b26372)
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin][](https://ky.linkedin.com/in/ramone-mairs-069b2637)
 
-
-[linkedin]: [](https://ky.linkedin.com/in/ramone-mairs-069b26372)
+[linkedin]:(https://ky.linkedin.com/in/ramone-mairs-069b2637
